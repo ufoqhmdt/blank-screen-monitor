@@ -1,0 +1,11 @@
+.DS_Store
+npm-debug.log
+yarn-error.log
+node_modules
+.idea/
+example/
+build/*.hot-update.*
+.npm-publish/
+build/
+dist/*.hot-update.*
+dist/

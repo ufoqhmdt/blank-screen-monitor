@@ -1,0 +1,31 @@
+#tab-bar.demo {
+  display: flex;
+  flex-direction: column;
+}
+#tab-bar .demoName {
+  height: 40px;
+}
+#tab-bar .demo-preview-item .am-tab-bar {
+  background-color: white;
+}
+
+.am-tab-bar::-webkit-scrollbar {
+  display: none;
+}
+#tab-bar.demo {
+  display: flex;
+  flex-direction: column;
+}
+#tab-bar .demoName {
+  height: 40px;
+}
+#tab-bar .demo-preview-item .am-tab-bar {
+  background-color: white;
+}
+
+.am-grid .am-flexbox .am-flexbox-item .am-grid-item-content {
+  padding: 0px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
